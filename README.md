@@ -118,7 +118,7 @@ The results will be displayed in a table within the application, where each row 
 - **Requests**: A simple HTTP library for making web requests.
 - **BeautifulSoup**: A library for parsing HTML, used to extract article data.
 - **Google Scholar**: The primary data source for academic articles.
-- **Dr. Sreenivas Bhattiprolu (bnsreenu) aka DigitalSreeni**: The program is inspired by the script [Automate Google Search Results to Excel](https://github.com/bnsreenu/python_for_microscopists/blob/master/347-Automate%20Google%20Search%20Results%20to%20Excel/347-Automate%20Google%20Search%20Results%20to%20Excel.py), developed by Dr. Bhattiprolu as part of his Python for Microscopists tutorial series.
+- **Dr. Sreenivas Bhattiprolu [(bnsreenu)](https://github.com/bnsreenu) aka [DigitalSreeni](https://www.youtube.com/@DigitalSreeni)**: The program is inspired by the script [Automate Google Search Results to Excel](https://github.com/bnsreenu/python_for_microscopists/blob/master/347-Automate%20Google%20Search%20Results%20to%20Excel/347-Automate%20Google%20Search%20Results%20to%20Excel.py), developed by Dr. Bhattiprolu as part of his Python for Microscopists tutorial series.
 
 ## License
 
